@@ -1,11 +1,11 @@
 
 # Dictionary
 
-It is an app, where user can search for meaning of any english word.
+Find meaning of any word. Inspiration taken at react examples website. Purpose of this ap is to work as online dictionary in english language.
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/g0xq6dxT/3-dictionary.jpg)
+![App Screenshot](https://i.postimg.cc/8zy2kStQ/dictionary-Pic.jpg)
 
 
 ## Authors
@@ -21,6 +21,9 @@ https://3dictionary.netlify.app
 ## Features
 
 - work with API
+- react-query
+- axios
+- bootstrap
 - Responsive
 
 
@@ -44,7 +47,7 @@ I'm a react frontend developer working on my skills everyday.
 
 
 ## 🛠 Skills
-Javascript, Typescript, HTML, CSS, React
+Javascript, Typescript, HTML, CSS, React, Express, SQL (Postgre/Mysql), Prisma ORM
 
 
 ## Lessons Learned
